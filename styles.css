@@ -1,0 +1,16 @@
+p {
+    color: green;
+}
+body {
+    background-image:img src="img/mercy.jpeg" alt="";
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+p {
+    font-size: 12px;
+}
+h2 {
+    font-weight: 300;
+    color: blue;
+}
